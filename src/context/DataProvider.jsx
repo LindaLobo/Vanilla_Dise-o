@@ -9,7 +9,7 @@ const DataProvider = ({children}) => {
     const [info, setInfo] = useState([])
 
     const getData = async() => {
-        const response = await axios.get('/items.json')
+        const response = await axios.get('items.json')
         const data = response.data.items
         setInfo(data)
     }
