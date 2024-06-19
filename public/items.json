@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "img": "./src/assets/img/imagen.png",
+      "title": "Item 1",
+      "content": "Aún nuestro sitio está en construcción (somos muy perfeccionistas jeje). Mientras puedes navegar en nuestro sitio antiguo."
+    },
+    {
+      "img": "./src/assets/img/imagen.png",
+      "title": "Item 2",
+      "content": "Aún nuestro sitio está en construcción (somos muy perfeccionistas jeje). Mientras puedes navegar en nuestro sitio antiguo."
+    },
+    {
+      "img": "./src/assets/img/imagen.png",
+      "title": "Item 3",
+      "content": "Aún nuestro sitio está en construcción (somos muy perfeccionistas jeje). Mientras puedes navegar en nuestro sitio antiguo."
+    }
+  ]
+}
